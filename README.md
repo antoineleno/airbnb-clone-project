@@ -133,7 +133,7 @@ By completing this project, you will:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/airbnb-clone-project.git
+git clone https://github.com/antoineleno/airbnb-clone-project.git
 cd airbnb-clone-project
 
 # Create virtual environment and install requirements
